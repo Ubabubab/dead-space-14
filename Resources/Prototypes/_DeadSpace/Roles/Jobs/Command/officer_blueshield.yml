@@ -8,7 +8,7 @@
       department: Engineering
       time: 36000 # 10 hours
     - !type:DepartmentTimeRequirement
-      department: Medical
+      department: Paramedic
       time: 36000 # 10 hours
     - !type:RoleTimeRequirement
       role: JobHeadOfSecurity
